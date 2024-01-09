@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple_TTS</string>
+    <string name="speak_btn_text">Speak</string>
+</resources>
